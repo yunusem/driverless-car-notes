@@ -6,7 +6,7 @@
 #define SPEED_COMMAND_FORWARD     (1000 + SPEED_COMMAND_TRIM)
 
 // Displacement per shaft revolution
-#define ROBOT_SHAFT_DPR (0.105f)
+#define ROBOT_SHAFT_DPR (0.095f)
 // Sensor pulse per shaft revolution
 #define ROBOT_SHAFT_PPR (8)
 
