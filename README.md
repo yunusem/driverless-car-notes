@@ -7,7 +7,7 @@ Please also see my [driverless-car](https://github.com/gokhanettin/driverless-ca
 
 1.  [x] Simple PID - Path Tracking
 2.  [x] Simple PID - Path Tracking (smoothed path)
-3.  [ ] Simple PID - Path Tracking (speed adjusting for swerves)
+3.  [x] Simple PID - Path Tracking (variable desired speed)
 4.  [ ] Follow the Carrot - Path Tracking
 5.  [ ] Pure Pursuit - Path Tracking
 6.  [ ] Stanley's Steering Control - Path Tracking
